@@ -31,4 +31,4 @@ print(nome + ' Giuliani')
 print(numeroDecimal)
 # Arredondar e definir quantas casas decimais
 print(round(numeroDecimal,3))
-print("%.3f" % (numeroDecimal))
+print("%.3f" % (numeroDecimal)) 

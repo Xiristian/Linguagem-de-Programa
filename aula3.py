@@ -23,7 +23,8 @@ print(type(verdadeiroFalso))
 # Função 'len' conta a quantidade de caracter
 print(len(nome))
 # Para repetir valor da variável, usar * e colocar a quantidade de vezes que será repetido
-print(nome  * 3)
+print(nome * 3)
+print((nome + '') * 3)
 # Concatenando Strings
 print(nome + '', sobrenome)
 print(nome + ' Giuliani')
